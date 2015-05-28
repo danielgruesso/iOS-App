@@ -1,4 +1,4 @@
-MobileFuel
+iOS App
 ==========
 
-apk for mobile fuel station activation
+Ver 1.0 of Mobile App
